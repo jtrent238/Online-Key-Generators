@@ -6,7 +6,7 @@ var lines;
       
       // load the keys from the server
       $.ajax({
-        url: 'https://gist.github.com/jtrent238/8899915c13490e53a0aa1f38e86761f3/raw/49bf877c39be0a967637580d7b6c1284fb2295be/steam_keys.txt'
+        url: 'https://jtrent238.github.io/Online-Key-Generators/Steam/steam_keys.txt'
       }).done(function(content) {
         
         // normalize the line breaks, then split into lines
