@@ -1,2 +1,2 @@
 # Online-Key-Generators
-Generates Keys for Steam and Origin
+Generates Keys for Stuff.
